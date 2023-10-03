@@ -28,7 +28,7 @@
 [Deploy do site copiado](https://kleberbarros9.github.io/fundamentos-arquit-dev-espec/)
 
 <p align="center">
-    <img src="./src/img/site-copia.png" alt="site cópia" height=512px>
+    <img src="./src/img/site-copia-new.png" alt="site cópia" height=512px>
 </p>
 
 
