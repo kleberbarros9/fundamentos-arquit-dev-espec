@@ -1,0 +1,35 @@
+
+html{
+    margin-left: 10%;
+    margin-right: 10%;
+
+    background-color:aliceblue;
+
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.p-peq{
+    font-size: 13 px;
+    color: grey
+}
+
+.p-mini{
+    font-size: 0.83em;
+    color: grey
+}
+
+.miolo{
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.link-g1{
+    color: red;
+    font-weight: bold;
+}
+
+img {
+    border-radius: 5%;
+  }
