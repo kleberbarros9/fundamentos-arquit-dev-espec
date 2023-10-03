@@ -20,15 +20,43 @@
 </p>
 
 
+
 ### Site copiado
 
-Deploy do site copiado
 
-[site copiado](https://kleberbarros9.github.io/fundamentos-arquit-dev-espec/)
+
+[Deploy do site copiado](https://kleberbarros9.github.io/fundamentos-arquit-dev-espec/)
 
 <p align="center">
-    <img src="./src/img/site-copia.png" alt="site cópia" height=512px>
+    <img src="./src/img/site-copia-new.png" alt="site cópia" height=512px>
 </p>
 
+
+
+###  Trechos de código do site copiado
+
+
+Implementando acesso ao vídeo ao clicar na foto.
+
+```html
+        <a href="https://www.youtube.com/watch?v=acBgONy3uoc">
+            <img src="./static/img/daniela.png" alt=""width="80%" height="80%">    
+        </a>
+```
+
+
+Uso de divs, classes, estilos e acesso simulado à link imitando página original
+
+```html
+
+<div class="link-g1">
+    <ul>
+        <li><a style="color: red; 
+            text-decoration: none"
+            href="https://g1.globo.com/politica/blog/daniela-lima/post/2023/09/26/em-novos-votos-moraes-mostra-que-militares-ofereceram-ate-estacionamento-para-radicais.ghtml">
+            Em novos votos, Moraes mostra que militares ofereceram até estacionamento para radicais</a></li>
+    </ul>
+</div>
+```
 
 
