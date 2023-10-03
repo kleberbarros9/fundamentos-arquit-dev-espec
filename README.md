@@ -7,6 +7,7 @@
 ### Requisitos
 
 - Copiar uma página da web qualquer, realizando modificações
+- Criar uma nova branch
 - Realizar um pull request
 - Adicionar o professor como colaborador
 
